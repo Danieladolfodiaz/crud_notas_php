@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+}
+
+.filaprincipal {
+  margin: auto;
+  border: solid black ;
+  background-color: white;
+}
+
+.insertar1 {
+  text-align: center;
+  background-color: white;
+  margin: auto;
+  border: solid black;
+}
+
+h3 {
+  text-align: center;
+}
+
+.insertar {
+  text-align: center;
+
+}
+
+tr {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(63, 210, 219);
+}
